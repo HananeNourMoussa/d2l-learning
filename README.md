@@ -7,6 +7,6 @@ In order to collect the textual data needed for Named Entity Recognition, I have
 
 The data is now stored on google drive in 63 corpora, with an average of 34,000 words per corpus. 
 
-![image](https://user-images.githubusercontent.com/71970059/177957883-e97f367b-67b6-45a6-baff-21e3d2e92250.png)
+![image](https://user-images.githubusercontent.com/71970059/177958072-d35e1d21-1b04-4d61-a198-f134d801c88d.png)
 
 The dataset can be shared with the research community upon demand. 
