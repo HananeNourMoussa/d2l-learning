@@ -16,4 +16,5 @@ Doccano, an open source tool, was used for data annotation. I hosted an instance
 
 ## JSONL to CoNLL: 
 The data exported from doccano is in JSONL format, I wrote a converter using camel-tools. Full colab notebook on `json-to-conll`. 
+
 ![image](https://user-images.githubusercontent.com/71970059/183910577-f9f4dd7b-4a2d-40cf-a3c1-8f4e81171ca8.png)
