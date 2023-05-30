@@ -20,14 +20,14 @@ The data exported from doccano is in JSONL format, I wrote a converter using cam
 ![image](https://user-images.githubusercontent.com/71970059/183910577-f9f4dd7b-4a2d-40cf-a3c1-8f4e81171ca8.png)
 
 ## Experiment 1: BERT + Dense Layer + Softmax
-![image](https://github.com/HananeNourMoussa/darija-ner/assets/71970059/392a7ae4-d6b8-4b8d-9fe1-74d3cc7eacba)
+
 
 ## Experiment 1: BERT + BiLSTM/BiGRU + Dense Layer + Softmax
-![image](https://github.com/HananeNourMoussa/darija-ner/assets/71970059/978b25f1-0572-4f1b-aabd-015769563b1a)
+
 
 ## Experiment 1: BERT + Dense Layer + CRF
-![image](https://github.com/HananeNourMoussa/darija-ner/assets/71970059/9d8522c3-3605-4811-89a5-e6d0aab3a0ec)
+
 
 ## Experiment 1: BERT + BiLSTM/BiGRU + Dense Layer + CRF
-![image](https://github.com/HananeNourMoussa/darija-ner/assets/71970059/cf4730f6-885d-498d-a222-35be0313e767)
+
 
