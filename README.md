@@ -19,6 +19,8 @@ The data exported from doccano is in JSONL format, I wrote a converter using cam
 
 ![image](https://user-images.githubusercontent.com/71970059/183910577-f9f4dd7b-4a2d-40cf-a3c1-8f4e81171ca8.png)
 
+For more details about the data collection, refer to our paper: https://doi.org/10.1016/j.dib.2023.109234
+
 ## Experiment 1: BERT + Dense Layer + Softmax
 
 
