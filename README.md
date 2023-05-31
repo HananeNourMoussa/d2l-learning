@@ -30,4 +30,4 @@ The data exported from doccano is in JSONL format, I wrote a converter using cam
 
 ## Experiment 4: BERT + BiLSTM/BiGRU + Dense Layer + CRF
 
-
+## Model on HuggingFace: https://huggingface.co/hananour/finetuned-arabert-darija-ner
