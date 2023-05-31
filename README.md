@@ -14,8 +14,8 @@ The dataset can be shared with the research community upon demand.
 Doccano, an open source tool, was used for data annotation. I hosted an instance of doccano on Heroku App. 
 ![image](https://user-images.githubusercontent.com/71970059/183910257-94893a7e-1318-4e7c-b6ec-1b4e3424bfd3.png)
 
-## JSONL to CoNLL: 
-The data exported from doccano is in JSONL format, I wrote a converter using camel-tools. Full colab notebook on `json-to-conll`. 
+## JSONL to CSV: 
+The data exported from doccano is in JSONL format, I wrote a converter using camel-tools. Full colab notebook on `json-to-csv`. 
 
 ![image](https://user-images.githubusercontent.com/71970059/183910577-f9f4dd7b-4a2d-40cf-a3c1-8f4e81171ca8.png)
 
