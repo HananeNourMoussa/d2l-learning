@@ -1,0 +1,3 @@
+This folder contains the final state of two best performing models: 
+`AraBERT-CRF-msa-darija-ner`: best performing model on mixed Arabic-Darija
+`AraBERT-BiGRU-CRF-darija-ner: best performing model on Darija
