@@ -1,0 +1,4 @@
+This folder contains the link to the final state of two best performing models: 
+  `AraBERT-CRF-msa-darija-ner`: best performing model on mixed Arabic-Darija
+  `AraBERT-BiGRU-CRF-darija-ner: best performing model on Darija
+Models can be found on: https://drive.google.com/drive/folders/1JoaqeKWqX-j7CPlNbW6C_MNM3pTGoydp?usp=sharing
