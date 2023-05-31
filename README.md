@@ -22,12 +22,12 @@ The data exported from doccano is in JSONL format, I wrote a converter using cam
 ## Experiment 1: BERT + Dense Layer + Softmax
 
 
-## Experiment 1: BERT + BiLSTM/BiGRU + Dense Layer + Softmax
+## Experiment 2: BERT + BiLSTM/BiGRU + Dense Layer + Softmax
 
 
-## Experiment 1: BERT + Dense Layer + CRF
+## Experiment 3: BERT + Dense Layer + CRF
 
 
-## Experiment 1: BERT + BiLSTM/BiGRU + Dense Layer + CRF
+## Experiment 4: BERT + BiLSTM/BiGRU + Dense Layer + CRF
 
 
