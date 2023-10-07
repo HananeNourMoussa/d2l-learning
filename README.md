@@ -1,35 +1,12 @@
 # darija-ner
-This repository is used to store the results of Named Entity Recognition (NER) in the Moroccan dialect, my capstone project for Spring 2023. 
-## Scraper:
-![image](https://user-images.githubusercontent.com/71970059/177956076-0a62fd1a-4520-4a82-87fe-30d57af4295f.png)
-
-In order to collect the textual data needed for Named Entity Recognition, I have scraped all articles on wikipedia darija. The resulting corpus is comprised of 2M+ words, with an abundant amount of named entities. 
-
-The data is now stored on google drive in 63 corpora, with an average of 34,000 words per corpus. 
-
-![image](https://user-images.githubusercontent.com/71970059/177958072-d35e1d21-1b04-4d61-a198-f134d801c88d.png)
-
-The dataset can be shared with the research community upon demand. 
-## Annotation on doccano: 
-Doccano, an open source tool, was used for data annotation. I hosted an instance of doccano on Heroku App. 
-![image](https://user-images.githubusercontent.com/71970059/183910257-94893a7e-1318-4e7c-b6ec-1b4e3424bfd3.png)
-
-## JSONL to CSV: 
-The data exported from doccano is in JSONL format, I wrote a converter using camel-tools. Full colab notebook on `json-to-csv`. 
-
-![image](https://user-images.githubusercontent.com/71970059/183910577-f9f4dd7b-4a2d-40cf-a3c1-8f4e81171ca8.png)
-
-For more details about the data collection, refer to our paper: https://doi.org/10.1016/j.dib.2023.109234
-
-## Experiment 1: BERT + Dense Layer + Softmax
-
-
-## Experiment 2: BERT + BiLSTM/BiGRU + Dense Layer + Softmax
-
-
-## Experiment 3: BERT + Dense Layer + CRF
-
-
-## Experiment 4: BERT + BiLSTM/BiGRU + Dense Layer + CRF
-
-## Model on HuggingFace: https://huggingface.co/hananour/finetuned-arabert-darija-ner
+This repository contains the code used for the following two papers: 
+[1]	Hanane Nour Moussa, Asmaa Mourhir, “DarNERcorp: An annotated named entity recognition dataset in the Moroccan dialect”, in Data in Brief, June 2023.
+[2]	Hanane Nour Moussa, Asmaa Mourhir, “Named Entity Recognition in the Moroccan Dialect”, Accepted for 5th IEEE Conference on Machine Learning and Natural Language Processing, 2023.
+## Data_Curation: 
+This folder contains the code referred to in [1]. 
+For more details about the data collection, refer to our paper: https://doi.org/10.1016/j.dib.2023.109234. Our dataset can be found Digital Commons Data: https://data.mendeley.com/datasets/286sss4k9v/4
+## Training: 
+This folder contains the code of the model training referred to in [2]. 
+## Models: 
+This folder contains links to download the best performing models.
+## Bonus! A demo of our model is hosted on huggingface: https://huggingface.co/hananour/finetuned-arabert-darija-ner
