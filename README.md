@@ -1,5 +1,6 @@
 # darija-ner
-This repository contains the code used for the following two papers: 
+This repository contains the code used for the following two papers:
+
 [1]	Hanane Nour Moussa, Asmaa Mourhir, “DarNERcorp: An annotated named entity recognition dataset in the Moroccan dialect”, in Data in Brief, June 2023.
 
 [2]	Hanane Nour Moussa, Asmaa Mourhir, “Named Entity Recognition in the Moroccan Dialect”, Accepted for 5th IEEE Conference on Machine Learning and Natural Language Processing, 2023.
